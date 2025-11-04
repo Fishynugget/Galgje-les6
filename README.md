@@ -27,3 +27,4 @@
 ### - Letter I is goed, Letters bijgevuld.
 ### - beurt4: Tobias gokt "letter m"
 ### - Letter M is goed, Letters bijgevuld.
+### - beurt4: Tobias gokt "woord meteorologisch"
