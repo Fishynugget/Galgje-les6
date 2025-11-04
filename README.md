@@ -19,6 +19,6 @@
 ---
 
 ## Beurtenlog
-### - beurt1: Tobias gokt "..."
+### - beurt1: Tobias gokt "letter e"
 ### - (Git-master vult hier reactie in: goed/fout + updates)
 ### - beurt2: Tobias gokt "..."
