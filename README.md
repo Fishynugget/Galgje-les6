@@ -9,7 +9,7 @@
 
 ## Woordraster
 
-| M | e | t | e | . | . | . | . | . | . | i | . | . | . |
+| M | e | t | e | o | r | o | l | o | g | i | s | c | h |
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 
@@ -28,3 +28,4 @@
 ### - beurt4: Tobias gokt "letter m"
 ### - Letter M is goed, Letters bijgevuld.
 ### - beurt4: Tobias gokt "woord meteorologisch"
+### - Woord geraden, einde spel.
