@@ -3,7 +3,7 @@
 ### Team: LeonKennedy  
 ### Spelvolgorde & contact:
 ### 1. Helena-de-Haan – <40919@ma-web.nl>
-### 2. Tobias-Kool – <email2@example.com>
+### 2. Tobias-Kool – <Tobiasbooms@gmail.com>
 
 ---
 
@@ -25,3 +25,4 @@
 ### - Letter T is goed, Letters bijgevuld.
 ### - beurt3: Tobias gokt "letter i"
 ### - Letter I is goed, Letters bijgevuld.
+### - beurt4: Tobias gokt "letter m"
