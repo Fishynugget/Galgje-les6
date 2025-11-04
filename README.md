@@ -9,7 +9,7 @@
 
 ## Woordraster
 
-| . | e | . | e | . | . | . | . | . | . | . | . | . | . |
+| . | e | t | e | . | . | . | . | . | . | . | . | . | . |
 | - | - | - | - | - | - | - | - | - | - | - | - | - | - |
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 |
 
@@ -22,3 +22,4 @@
 ### - beurt1: Tobias gokt "letter e"
 ### - Letter E is goed, Letters bijgevuld.
 ### - beurt2: Tobias gokt "letter t"
+### - Letter T is goed, Letters bijgevuld.
