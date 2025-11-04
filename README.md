@@ -23,3 +23,4 @@
 ### - Letter E is goed, Letters bijgevuld.
 ### - beurt2: Tobias gokt "letter t"
 ### - Letter T is goed, Letters bijgevuld.
+### - beurt3: Tobias gokt "letter i"
