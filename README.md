@@ -1,9 +1,9 @@
 # Galgje-les6
 
-**Team:** <LeonKennedy>  
-**Spelvolgorde & contact:**
-1. <Helena-de-Haan> – <40919@ma-web.nl>
-2. <Tobias-Kool> – <email2@example.com>
+### Team: LeonKennedy  
+### Spelvolgorde & contact:
+### 1. Helena-de-Haan – <40919@ma-web.nl>
+### 2. Tobias-Kool – <email2@example.com>
 
 ---
 
@@ -19,6 +19,6 @@
 ---
 
 ## Beurtenlog
-- beurt1: <Tobias> gokt "..."
-- (Git-master vult hier reactie in: goed/fout + updates)
-- beurt2: <Tobias> gokt "..."
+### - beurt1: Tobias gokt "..."
+### - (Git-master vult hier reactie in: goed/fout + updates)
+### - beurt2: Tobias gokt "..."
