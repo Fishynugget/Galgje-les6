@@ -21,4 +21,4 @@
 ## Beurtenlog
 ### - beurt1: Tobias gokt "letter e"
 ### - Letter E is goed, Letters bijgevuld.
-### - beurt2: Tobias gokt "..."
+### - beurt2: Tobias gokt "letter t"
